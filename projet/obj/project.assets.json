@@ -1,0 +1,276 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "bingmaps.TypeScript.DefinitelyTyped/2.4.3": {
+        "type": "package"
+      },
+      "BingMapsRESTToolkit/1.1.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/BingMapsRESTToolkit.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/BingMapsRESTToolkit.dll": {}
+        }
+      },
+      "leaflet/0.7.3": {
+        "type": "package"
+      },
+      "Microsoft.Maps.MapControl.WPF/1.0.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net40-Client/Microsoft.Maps.MapControl.WPF.dll": {}
+        },
+        "runtime": {
+          "lib/net40-Client/Microsoft.Maps.MapControl.WPF.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "ApiControler/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "leaflet": "0.7.3"
+        },
+        "compile": {
+          "bin/placeholder/ApiControler.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ApiControler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bingmaps.TypeScript.DefinitelyTyped/2.4.3": {
+      "sha512": "tfDCYRSsumvTs77p2o2KVQqx3/v4K9MbgHA5BYfVaphggjUsP3DxYXJLeXTcjlGvKX7j+JYCLzWw8HX9eq3uJg==",
+      "type": "package",
+      "path": "bingmaps.typescript.definitelytyped/2.4.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/Scripts/typings/bingmaps/Microsoft.Maps.AdvancedShapes.d.ts",
+        "Content/Scripts/typings/bingmaps/Microsoft.Maps.Directions.d.ts",
+        "Content/Scripts/typings/bingmaps/Microsoft.Maps.Search.d.ts",
+        "Content/Scripts/typings/bingmaps/Microsoft.Maps.Themes.BingTheme.d.ts",
+        "Content/Scripts/typings/bingmaps/Microsoft.Maps.Traffic.d.ts",
+        "Content/Scripts/typings/bingmaps/Microsoft.Maps.VenueMaps.d.ts",
+        "Content/Scripts/typings/bingmaps/index.d.ts",
+        "bingmaps.typescript.definitelytyped.2.4.3.nupkg.sha512",
+        "bingmaps.typescript.definitelytyped.nuspec"
+      ]
+    },
+    "BingMapsRESTToolkit/1.1.4": {
+      "sha512": "RFRROSRwLJnaET74DdKcesArciUTPhJ7geWvIsjITzGSIUIAigTLYEgSEZFX9YZVl/CPCPYPyEt0n6raL34Gvw==",
+      "type": "package",
+      "path": "bingmapsresttoolkit/1.1.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bingmapsresttoolkit.1.1.4.nupkg.sha512",
+        "bingmapsresttoolkit.nuspec",
+        "lib/dotnet/BingMapsRESTToolkit.XML",
+        "lib/dotnet/BingMapsRESTToolkit.dll",
+        "lib/dotnet/BingMapsRESTToolkit.pdb",
+        "lib/net45/BingMapsRESTToolkit.XML",
+        "lib/net45/BingMapsRESTToolkit.dll",
+        "lib/net45/BingMapsRESTToolkit.pdb",
+        "lib/netstandard2.0/BingMapsRESTToolkit.deps.json",
+        "lib/netstandard2.0/BingMapsRESTToolkit.dll",
+        "lib/netstandard2.0/BingMapsRESTToolkit.pdb",
+        "lib/portable-net45+wp8+win8/BingMapsRESTToolkit.XML",
+        "lib/portable-net45+wp8+win8/BingMapsRESTToolkit.dll",
+        "lib/portable-net45+wp8+win8/BingMapsRESTToolkit.pdb",
+        "lib/uap10.0/BingMapsRESTToolkit.XML",
+        "lib/uap10.0/BingMapsRESTToolkit.dll",
+        "lib/uap10.0/BingMapsRESTToolkit.pdb",
+        "lib/wpa81/BingMapsRESTToolkit.XML",
+        "lib/wpa81/BingMapsRESTToolkit.dll",
+        "lib/wpa81/BingMapsRESTToolkit.pdb",
+        "lib/xamarinios/BingMapsRESTToolkit.XML",
+        "lib/xamarinios/BingMapsRESTToolkit.dll",
+        "lib/xamarinios/BingMapsRESTToolkit.pdb"
+      ]
+    },
+    "leaflet/0.7.3": {
+      "sha512": "R20Vv1lXuqcu6lKeHFy8KnahLxetHaKBS0S2y/mrq+phhkTtz0zIr6isxJR89LuQR9v53aKNMFVyaxLU+zagEw==",
+      "type": "package",
+      "path": "leaflet/0.7.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/Content/images/layers-2x.png",
+        "content/Content/images/layers.png",
+        "content/Content/images/marker-icon-2x.png",
+        "content/Content/images/marker-icon.png",
+        "content/Content/images/marker-shadow.png",
+        "content/Content/leaflet.css",
+        "content/Scripts/leaflet-0.7.3.js",
+        "content/Scripts/leaflet-0.7.3.min.js",
+        "leaflet.0.7.3.nupkg.sha512",
+        "leaflet.nuspec"
+      ]
+    },
+    "Microsoft.Maps.MapControl.WPF/1.0.0.3": {
+      "sha512": "P5Xys9PH/NIZY8qPASd03VOrZ/eXyS1hSoruR7oM+Otn98DkvUD1LwO8m9Aro4/5jCU1BgRmOTJrIQm5y9UHnQ==",
+      "type": "package",
+      "path": "microsoft.maps.mapcontrol.wpf/1.0.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40-Client/Microsoft.Maps.MapControl.WPF.dll",
+        "lib/net40-Client/Microsoft.Maps.MapControl.WPF.xml",
+        "microsoft.maps.mapcontrol.wpf.1.0.0.3.nupkg.sha512",
+        "microsoft.maps.mapcontrol.wpf.nuspec"
+      ]
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "ApiControler/1.0.0": {
+      "type": "project",
+      "path": "../ApiControler/ApiControler.csproj",
+      "msbuildProject": "../ApiControler/ApiControler.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "ApiControler >= 1.0.0",
+      "BingMapsRESTToolkit >= 1.1.4",
+      "Microsoft.Maps.MapControl.WPF >= 1.0.0.3",
+      "Newtonsoft.Json >= 13.0.1",
+      "bingmaps.TypeScript.DefinitelyTyped >= 2.4.3",
+      "leaflet >= 0.7.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Yannoux\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Yannoux\\Documents\\M1\\S8\\Data Feed API\\COURTEMANCHE_Yann_ST2API_TP3\\projet\\projet.csproj",
+      "projectName": "projet",
+      "projectPath": "C:\\Users\\Yannoux\\Documents\\M1\\S8\\Data Feed API\\COURTEMANCHE_Yann_ST2API_TP3\\projet\\projet.csproj",
+      "packagesPath": "C:\\Users\\Yannoux\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yannoux\\Documents\\M1\\S8\\Data Feed API\\COURTEMANCHE_Yann_ST2API_TP3\\projet\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Yannoux\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Yannoux\\Documents\\M1\\S8\\Data Feed API\\COURTEMANCHE_Yann_ST2API_TP3\\ApiControler\\ApiControler.csproj": {
+              "projectPath": "C:\\Users\\Yannoux\\Documents\\M1\\S8\\Data Feed API\\COURTEMANCHE_Yann_ST2API_TP3\\ApiControler\\ApiControler.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "dependencies": {
+          "BingMapsRESTToolkit": {
+            "target": "Package",
+            "version": "[1.1.4, )"
+          },
+          "Microsoft.Maps.MapControl.WPF": {
+            "target": "Package",
+            "version": "[1.0.0.3, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.1, )"
+          },
+          "bingmaps.TypeScript.DefinitelyTyped": {
+            "target": "Package",
+            "version": "[2.4.3, )"
+          },
+          "leaflet": {
+            "target": "Package",
+            "version": "[0.7.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Maps.MapControl.WPF 1.0.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Maps.MapControl.WPF",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projet", "projet\projet.csproj", "{A9121AC2-F59B-4DA3-95E1-70FFD1E50014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiControler", "ApiControler\ApiControler.csproj", "{D9581C6D-580E-49E4-A927-3FC10990BCB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9121AC2-F59B-4DA3-95E1-70FFD1E50014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9121AC2-F59B-4DA3-95E1-70FFD1E50014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9121AC2-F59B-4DA3-95E1-70FFD1E50014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9121AC2-F59B-4DA3-95E1-70FFD1E50014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9581C6D-580E-49E4-A927-3FC10990BCB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9581C6D-580E-49E4-A927-3FC10990BCB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9581C6D-580E-49E4-A927-3FC10990BCB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9581C6D-580E-49E4-A927-3FC10990BCB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

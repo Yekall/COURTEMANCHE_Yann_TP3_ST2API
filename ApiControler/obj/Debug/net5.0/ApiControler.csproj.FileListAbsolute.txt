@@ -1,0 +1,54 @@
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\obj\Debug\net5.0\ApiControler.csproj.AssemblyReference.cache
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\obj\Debug\net5.0\ApiControler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\obj\Debug\net5.0\ApiControler.AssemblyInfoInputs.cache
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\obj\Debug\net5.0\ApiControler.AssemblyInfo.cs
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\obj\Debug\net5.0\ApiControler.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\bin\Debug\net5.0\ApiControler.exe
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\bin\Debug\net5.0\ApiControler.deps.json
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\bin\Debug\net5.0\ApiControler.runtimeconfig.json
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\bin\Debug\net5.0\ApiControler.runtimeconfig.dev.json
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\bin\Debug\net5.0\ApiControler.dll
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\bin\Debug\net5.0\ref\ApiControler.dll
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\bin\Debug\net5.0\ApiControler.pdb
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\obj\Debug\net5.0\ApiControler.csproj.CopyComplete
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\obj\Debug\net5.0\ApiControler.dll
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\obj\Debug\net5.0\ref\ApiControler.dll
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\obj\Debug\net5.0\ApiControler.pdb
+C:\Users\adrie\Downloads\ProjectISA-master\ApiControler\obj\Debug\net5.0\ApiControler.genruntimeconfig.cache
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\bin\Debug\net5.0\ApiControler.exe
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\bin\Debug\net5.0\ApiControler.deps.json
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\bin\Debug\net5.0\ApiControler.runtimeconfig.json
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\bin\Debug\net5.0\ApiControler.runtimeconfig.dev.json
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\bin\Debug\net5.0\ApiControler.dll
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\bin\Debug\net5.0\ApiControler.pdb
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\obj\Debug\net5.0\ApiControler.csproj.AssemblyReference.cache
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\obj\Debug\net5.0\ApiControler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\obj\Debug\net5.0\ApiControler.AssemblyInfoInputs.cache
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\obj\Debug\net5.0\ApiControler.AssemblyInfo.cs
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\obj\Debug\net5.0\ApiControler.csproj.CoreCompileInputs.cache
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\obj\Debug\net5.0\ApiControler.csproj.CopyComplete
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\obj\Debug\net5.0\ApiControler.dll
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\obj\Debug\net5.0\ApiControler.pdb
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\obj\Debug\net5.0\ApiControler.genruntimeconfig.cache
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\obj\Debug\net5.0\ref\ApiControler.dll
+C:\Users\adrie\RiderProjects\TP3Csharp\ApiControler\bin\Debug\net5.0\ref\ApiControler.dll
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\bin\Debug\net5.0\ApiControler.exe
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\bin\Debug\net5.0\ApiControler.deps.json
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\bin\Debug\net5.0\ApiControler.runtimeconfig.json
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\bin\Debug\net5.0\ApiControler.runtimeconfig.dev.json
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\bin\Debug\net5.0\ApiControler.dll
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\bin\Debug\net5.0\ref\ApiControler.dll
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\bin\Debug\net5.0\ApiControler.pdb
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\obj\Debug\net5.0\ApiControler.csproj.AssemblyReference.cache
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\obj\Debug\net5.0\ApiControler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\obj\Debug\net5.0\ApiControler.AssemblyInfoInputs.cache
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\obj\Debug\net5.0\ApiControler.AssemblyInfo.cs
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\obj\Debug\net5.0\ApiControler.csproj.CoreCompileInputs.cache
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\obj\Debug\net5.0\ApiControler.csproj.CopyComplete
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\obj\Debug\net5.0\ApiControler.dll
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\obj\Debug\net5.0\ref\ApiControler.dll
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\obj\Debug\net5.0\ApiControler.pdb
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\ApiControler\obj\Debug\net5.0\ApiControler.genruntimeconfig.cache

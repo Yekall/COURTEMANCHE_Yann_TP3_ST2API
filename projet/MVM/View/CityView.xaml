@@ -1,0 +1,141 @@
+﻿<UserControl x:Class="projet.MVM.View.CityView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:projet.MVM.View"
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="300"
+             >
+    
+    <StackPanel>
+  
+        
+        <StackPanel>
+            <TextBlock Text="City" Foreground="White" FontSize="28" HorizontalAlignment="Left"  Margin="0,0,0,20"/>
+            <StackPanel Orientation="Horizontal">
+                <Border Width="400" Height="200" >
+                    <Border.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                            <GradientStop Color="#743eb6" Offset="0.0"/>
+                            <GradientStop Color="#4419a5" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Border.Background>
+                    <Border.Clip>
+                        <RectangleGeometry RadiusX="10" RadiusY="10" Rect="0,0,400,200"></RectangleGeometry>
+                    </Border.Clip>
+                
+                    <Grid>
+                        <StackPanel>
+                            <TextBlock Text="LOADING" Name="title" Foreground="White" FontSize="28" Margin="20,10,10,0"/>
+                            <TextBlock Name="type" Foreground="White" FontSize="20" Margin="20,10,10,0"/>
+                            <TextBlock Name="temp" Foreground="White" FontSize="20" Margin="20,10,10,0"/>
+                            <TextBlock Name="wind" Foreground="White" FontSize="20" Margin="20,10,10,0"/>
+                        </StackPanel>
+                        <Image Width="250" Height="250"  Name="Image" />
+                    </Grid>
+                </Border>
+                
+                <Border Width="200" Height="200"  CornerRadius="10" Margin="45,0,0,0">
+                    <Border.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                            <GradientStop Color="#3499eb" Offset="0.0"/>
+                            <GradientStop Color="#3499eb" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Border.Background>
+                    <Border.Clip>
+                        <RectangleGeometry RadiusX="10" RadiusY="10" Rect="0,0,400,200"></RectangleGeometry>
+                    </Border.Clip>
+                
+                    <Grid>
+                        <StackPanel>
+                            <Image Source="http://openweathermap.org/img/wn/09d@5x.png" Name="Imageweather"/>
+                           
+                        </StackPanel>
+                    </Grid>
+                </Border>
+            </StackPanel>
+            
+        </StackPanel>
+        <TextBlock Text="Next days" Foreground="White" FontSize="28" HorizontalAlignment="Left"  Margin="0,0,0,20"/>
+
+        <StackPanel Orientation="Horizontal">
+            <StackPanel.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="Margin" Value="15,0,0,0"/>
+                </Style>
+            </StackPanel.Resources>
+            <Border Width="150" Height="250" CornerRadius="10" Margin="0">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#743eb6" Offset="0.0"/>
+                        <GradientStop Color="#4419a5" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Grid>
+                    <StackPanel>
+                        <TextBlock Text="j+1" Foreground="White" FontSize="20" Margin="20,10,10,0" Name="testj1"/>
+                        <Image Source="http://openweathermap.org/img/wn/09d@2x.png" HorizontalAlignment="Center" Name="Imageweather1" />
+                        <TextBlock Text="j+dfrg" Name="tempweather1" Foreground="White" FontSize="19" Margin="0,30,10,0" HorizontalAlignment="Center"/>
+
+                    </StackPanel>
+                   
+                </Grid>
+            </Border>
+            <Border Width="150" Height="250" CornerRadius="10">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#743eb6" Offset="0.0"/>
+                        <GradientStop Color="#4419a5" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Grid>
+                    <StackPanel>
+                        <TextBlock Text="j+2" Foreground="White" FontSize="20" Margin="0,10,10,0" HorizontalAlignment="Center" Name="testj2"/>
+                        <Image Source="http://openweathermap.org/img/wn/09d@2x.png" HorizontalAlignment="Center" Name="Imageweather2"/>
+                        <TextBlock Text="j+dfrg" Name="tempweather2" Foreground="White" FontSize="19" Margin="0,30,10,0" HorizontalAlignment="Center"/>
+
+                    </StackPanel>
+                   
+                </Grid>
+            </Border>
+            <Border Width="150" Height="250" CornerRadius="10">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#743eb6" Offset="0.0"/>
+                        <GradientStop Color="#4419a5" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Grid>
+                    <StackPanel>
+                        <TextBlock Text="j+3" Foreground="White" FontSize="20" Margin="0,10,10,0" HorizontalAlignment="Center" Name="testj3"/>
+                        <Image Source="http://openweathermap.org/img/wn/09d@2x.png" HorizontalAlignment="Center" Name="Imageweather3"/>
+                        <TextBlock Text="j+dfrg" Name="tempweather3" Foreground="White" FontSize="19" Margin="0,30,10,0" HorizontalAlignment="Center"/>
+
+                    </StackPanel>
+                   
+                </Grid>
+            </Border>
+            <Border Width="150" Height="250" CornerRadius="10">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#743eb6" Offset="0.0"/>
+                        <GradientStop Color="#4419a5" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Grid>
+                    <StackPanel>
+                        <TextBlock Text="j+4" Foreground="White" FontSize="20" Margin="0,10,10,0" HorizontalAlignment="Center" Name="testj4"/>
+                        <Image Source="http://openweathermap.org/img/wn/09d@2x.png" HorizontalAlignment="Center" Name="Imageweather4"/>
+                        <TextBlock Text="j+dfrg" Name="tempweather4" Foreground="White" FontSize="19" Margin="0,30,10,0" HorizontalAlignment="Center"/>
+
+                    </StackPanel>
+                   
+                </Grid>
+            </Border>
+            
+                
+              
+        </StackPanel>
+    </StackPanel>
+</UserControl>

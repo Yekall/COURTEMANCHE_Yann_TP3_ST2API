@@ -1,0 +1,195 @@
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\bin\Debug\net5.0-windows\projet.exe
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\bin\Debug\net5.0-windows\projet.deps.json
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\bin\Debug\net5.0-windows\projet.runtimeconfig.json
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\bin\Debug\net5.0-windows\projet.runtimeconfig.dev.json
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\bin\Debug\net5.0-windows\projet.dll
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\bin\Debug\net5.0-windows\ref\projet.dll
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\bin\Debug\net5.0-windows\projet.pdb
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.csproj.AssemblyReference.cache
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\Theme\SearchbarTeme.baml
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\MVM\View\CoinView.g.cs
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\MVM\View\HomeView.g.cs
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet_MarkupCompile.cache
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet_MarkupCompile.lref
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\App.baml
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\MVM\View\CoinView.baml
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\MVM\View\HomeView.baml
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.g.resources
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.AssemblyInfoInputs.cache
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.AssemblyInfo.cs
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.csproj.CopyComplete
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.dll
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\ref\projet.dll
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.pdb
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.genruntimeconfig.cache
+C:\Users\adrie\RiderProjects\projet\projet\bin\Debug\net5.0-windows\projet.exe
+C:\Users\adrie\RiderProjects\projet\projet\bin\Debug\net5.0-windows\projet.deps.json
+C:\Users\adrie\RiderProjects\projet\projet\bin\Debug\net5.0-windows\projet.runtimeconfig.json
+C:\Users\adrie\RiderProjects\projet\projet\bin\Debug\net5.0-windows\projet.runtimeconfig.dev.json
+C:\Users\adrie\RiderProjects\projet\projet\bin\Debug\net5.0-windows\projet.dll
+C:\Users\adrie\RiderProjects\projet\projet\bin\Debug\net5.0-windows\ref\projet.dll
+C:\Users\adrie\RiderProjects\projet\projet\bin\Debug\net5.0-windows\projet.pdb
+C:\Users\adrie\RiderProjects\projet\projet\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\projet.csproj.AssemblyReference.cache
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\Theme\SearchbarTeme.baml
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\MVM\View\CoinView.g.cs
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\MVM\View\HomeView.g.cs
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\projet_MarkupCompile.cache
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\projet_MarkupCompile.lref
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\App.baml
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\MVM\View\CoinView.baml
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\MVM\View\HomeView.baml
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\projet.g.resources
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\projet.AssemblyInfoInputs.cache
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\projet.AssemblyInfo.cs
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\projet.csproj.CoreCompileInputs.cache
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\projet.csproj.CopyComplete
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\projet.dll
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\ref\projet.dll
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\projet.pdb
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\projet.genruntimeconfig.cache
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\MVM\View\GraphView.g.cs
+C:\Users\adrie\RiderProjects\projet\projet\obj\Debug\net5.0-windows\MVM\View\GraphView.baml
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\MVM\View\GraphView.g.cs
+C:\Users\jonat\Downloads\ProjectISA-master\ProjectISA-master\projet\obj\Debug\net5.0-windows\MVM\View\GraphView.baml
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\projet.exe
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\projet.deps.json
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\projet.runtimeconfig.json
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\projet.runtimeconfig.dev.json
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\projet.dll
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\ref\projet.dll
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\projet.pdb
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.csproj.AssemblyReference.cache
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\Theme\SearchbarTeme.baml
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\MVM\View\HomeView.g.cs
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet_MarkupCompile.cache
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet_MarkupCompile.lref
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\App.baml
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\MVM\View\HomeView.baml
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.g.resources
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.AssemblyInfoInputs.cache
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.AssemblyInfo.cs
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.csproj.CopyComplete
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.dll
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\ref\projet.dll
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.pdb
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\projet.genruntimeconfig.cache
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\MVM\View\CityView.g.cs
+C:\Users\adrie\Downloads\ProjectISA-master\projet\obj\Debug\net5.0-windows\MVM\View\CityView.baml
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\BingMapsRESTToolkit.dll
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\NUnit3.TestAdapter.dll
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\NUnit3.TestAdapter.pdb
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\nunit.engine.dll
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\nunit.engine.api.dll
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\nunit.engine.core.dll
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\testcentric.engine.metadata.dll
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\nunit.framework.dll
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\ApiControler.deps.json
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\ApiControler.runtimeconfig.json
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\ApiControler.runtimeconfig.dev.json
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\ApiControler.exe
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\ApiControler.dll
+C:\Users\adrie\Downloads\ProjectISA-master\projet\bin\Debug\net5.0-windows\ApiControler.pdb
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\bin\Debug\net5.0-windows\ApiControler.deps.json
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\bin\Debug\net5.0-windows\ApiControler.runtimeconfig.json
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\bin\Debug\net5.0-windows\ApiControler.runtimeconfig.dev.json
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\bin\Debug\net5.0-windows\ApiControler.exe
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\bin\Debug\net5.0-windows\projet.exe
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\bin\Debug\net5.0-windows\projet.deps.json
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\bin\Debug\net5.0-windows\projet.runtimeconfig.json
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\bin\Debug\net5.0-windows\projet.runtimeconfig.dev.json
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\bin\Debug\net5.0-windows\projet.dll
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\bin\Debug\net5.0-windows\projet.pdb
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\bin\Debug\net5.0-windows\BingMapsRESTToolkit.dll
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\bin\Debug\net5.0-windows\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\bin\Debug\net5.0-windows\ApiControler.dll
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\bin\Debug\net5.0-windows\ApiControler.pdb
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\projet.csproj.AssemblyReference.cache
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\Theme\SearchbarTeme.baml
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\MVM\View\CityView.g.cs
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\MVM\View\HomeView.g.cs
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\projet_MarkupCompile.cache
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\projet_MarkupCompile.lref
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\App.baml
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\MVM\View\CityView.baml
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\MVM\View\HomeView.baml
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\projet.g.resources
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\projet.AssemblyInfoInputs.cache
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\projet.AssemblyInfo.cs
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\projet.csproj.CoreCompileInputs.cache
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\projet.csproj.CopyComplete
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\projet.dll
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\projet.pdb
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\projet.genruntimeconfig.cache
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\obj\Debug\net5.0-windows\ref\projet.dll
+C:\Users\adrie\RiderProjects\TP3Csharp\projet\bin\Debug\net5.0-windows\ref\projet.dll
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\bin\Debug\net5.0-windows\ApiControler.deps.json
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\bin\Debug\net5.0-windows\ApiControler.runtimeconfig.json
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\bin\Debug\net5.0-windows\ApiControler.runtimeconfig.dev.json
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\bin\Debug\net5.0-windows\ApiControler.exe
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\bin\Debug\net5.0-windows\projet.exe
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\bin\Debug\net5.0-windows\projet.deps.json
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\bin\Debug\net5.0-windows\projet.runtimeconfig.json
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\bin\Debug\net5.0-windows\projet.runtimeconfig.dev.json
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\bin\Debug\net5.0-windows\projet.dll
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\bin\Debug\net5.0-windows\ref\projet.dll
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\bin\Debug\net5.0-windows\projet.pdb
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\bin\Debug\net5.0-windows\BingMapsRESTToolkit.dll
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\bin\Debug\net5.0-windows\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\bin\Debug\net5.0-windows\ApiControler.dll
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\bin\Debug\net5.0-windows\ApiControler.pdb
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\projet.csproj.AssemblyReference.cache
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\Theme\SearchbarTeme.baml
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\MVM\View\CityView.g.cs
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\MVM\View\HomeView.g.cs
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\projet_MarkupCompile.cache
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\projet_MarkupCompile.lref
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\App.baml
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\MVM\View\CityView.baml
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\MVM\View\HomeView.baml
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\projet.g.resources
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\projet.AssemblyInfoInputs.cache
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\projet.AssemblyInfo.cs
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\projet.csproj.CoreCompileInputs.cache
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\projet.csproj.CopyComplete
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\projet.dll
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\ref\projet.dll
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\projet.pdb
+C:\Users\Yannoux\Documents\M1\S8\Data Feed API\COURTEMANCHE_Yann_ST2API_TP3\projet\obj\Debug\net5.0-windows\projet.genruntimeconfig.cache
